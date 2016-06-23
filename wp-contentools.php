@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Contentools
 Plugin URI: https://github.com/contentools/wp-contentools
-Description: Contentools is a content marketing automation platform to centralize, streamline and manage content creation
+Description: Contentools is a content marketing automation platform to centralize, streamline and manage content creation. This plugin enables the integration between the Contentools Platform and Wordpress.
 Author: Contentools
 Version: 0.0.1
 Author URI: http://contentools.com/
