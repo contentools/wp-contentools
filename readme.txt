@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Contentools is a content marketing automation platform to centralize, streamline and manage content creation.
-
+http://go.contentools.com/
 == Description ==
 
 This plugin enables the integration between the Contentools Platform and Wordpress.
@@ -17,6 +17,11 @@ This plugin enables the integration between the Contentools Platform and Wordpre
 Current Features:
 
 1. Allow X-Frame-Options
+When you access the WP-admin page we add the field `X-Frame-Options` with value `http://go.contentools.com/` in header.
+This allows your wp-admin page be accessed inside Contentools Platform
+
+2. Set WP Contentools enabled plugin
+It adds "WP-Contentools" flag on HTTP headers with value "true".
 
 == Installation ==
 
