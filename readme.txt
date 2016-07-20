@@ -50,3 +50,4 @@ Nothing yet
 
 = 1.0 =
 * Add support to allow X-Frame-Options
+* Add "WP-Contentools" flag on HTTP headers
